@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: yamail
+Version: 1.0.2
+Summary: a sample mail.
+Home-page: http://www.nnzhp.cn
+Author: 牛牛
+Author-email: niuhanyang@163.com
+License: UNKNOWN
+Platform: UNKNOWN
+
+
+发送电子邮件的模块，源码99%是yagmail里面的
+在yagmail基础上修改默认发送邮箱为163、解决qq邮箱收到附件中文名为乱码的问题。
+
+
